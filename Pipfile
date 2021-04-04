@@ -7,6 +7,13 @@ name = "pypi"
 wallstreet = "*"
 yfinance = "*"
 pyportfolioopt = "*"
+mxnet = "*"
+sklearn = "*"
+xgboost = "*"
+bayesian-optimization = "*"
+seaborn = "*"
+bert = "*"
+statsmodels = "*"
 
 [dev-packages]
 
